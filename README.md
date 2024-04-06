@@ -8,9 +8,7 @@ This project involves scraping data from the Pitwall website, analyzing Formula 
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Files](#files)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
